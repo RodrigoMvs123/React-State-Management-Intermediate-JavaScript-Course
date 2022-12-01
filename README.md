@@ -7,6 +7,8 @@ https://www.youtube.com/watch?v=-bEzt5ISACA
 
 https://github.com/jherr/fcc-state.git
 
+https://raw.githubusercontent.com/RodrigoMvs123/React-State-Management-Intermediate-JavaScript-Course/main/README.md
+
 (0:00:00) Introduction
 (0:03:27) useState
 (0:18:37) useReducer
